@@ -1,4 +1,4 @@
 # CryptoClustering
-M11 Cryptoclustering Challenge: In this challenge, we classified price fluctuations of cryptocurrencies across timeframes across 24 hour, 7 day, 30 day, 60 day, 200 day, and 1 year intervals. 
+In this challenge, we utilized unsuperised machine learning tools K-means algorithm and principal component analysis (PCA) to classify price fluctuations of cryptocurrencies across timeframes across 24 hour, 7 day, 30 day, 60 day, 200 day, and 1 year intervals. 
 
-Completed individually, as well as in an EdX tutoring session and also a student study group with Adam Millington. 
+Completed individually, and in study group collaborations. 
